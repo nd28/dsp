@@ -1,0 +1,17 @@
+So The interface is like
+
+
+1:I enter command 'DesignHelp'
+2:Print interface created for command line.
+3:Show command options for 
+	1.[ Decide_Name ]
+	2.[ Store_Base_Idea ]
+	3.[ Decide_Intial_Working ]
+	4.[ Decide_What_To_Research ]
+	5.[ Prepare_Questions ]
+	6.[ Decide_Final_Model ]
+	7.[ Decide_Reqiuired_Technologies ]
+	8.[ Create_Final_Result ]
+4:Then I select these options above.
+5:Decide shortcuts.
+
